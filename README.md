@@ -1,1 +1,1 @@
-# moodle-local_mulepack
+# moodle-local_packmule
